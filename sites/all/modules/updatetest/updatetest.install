@@ -1,2 +1,8 @@
 <?php
 
+/**
+ * The best update on the planet. 
+ */
+function updatetest_update_7001(&$sandbox) {
+  // business logic
+}

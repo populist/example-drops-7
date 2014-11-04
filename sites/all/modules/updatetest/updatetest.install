@@ -6,3 +6,10 @@
 function updatetest_update_7001(&$sandbox) {
   // business logic
 }
+
+/**
+ * The second best update on the planet. 
+ */
+function updatetest_update_7002(&$sandbox) {
+  // business logic
+}

@@ -1,0 +1,3 @@
+name = Update DB Testing
+description = Testing the Update DB process on Pantheon
+core = 7.x
